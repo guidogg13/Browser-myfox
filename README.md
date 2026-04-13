@@ -73,4 +73,7 @@ Older versions may not work correctly with the latest PyObjC releases.
 If you want to see more of my work, feel free to visit my GitHub profile and explore my other repositories.  
 I'm always learning, experimenting, and building new things — and this browser is just the beginning 🚀
 
+Very soon the browsers for Windows and Linux will be released as well, along with the videogame.
+For anyone who hasn’t seen Eisi yet, guidogg13 recommends taking a look.
+
 Thanks for reading! 😄
